@@ -2,6 +2,9 @@
 
 A Streamlit-based chatbot implementation using LangChain and OpenAI's GPT-3.5 model. This application demonstrates the integration of modern AI capabilities with a user-friendly web interface.
 
+![alt text](https://github.com/Pranava-Kailash/Langchain_Basic_Chatbot/blob/main/StreamLit%20Front%20End.png)
+
+
 ## 🌟 Features
 
 - Interactive chat interface using Streamlit
